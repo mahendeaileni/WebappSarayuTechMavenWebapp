@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1> Welcome to Sarayu Tech Continuous Integration(CI) tools by Mahender Reddy </h1>
+<h1> Welcome to Sarayu Tech DevOps tools by Mahender Reddy </h1>
 <h1>Our IT Services</h1>
 <h1> -> WebSphere Admin</h1>
 <h1> -> WebLogic Admin</h1>
