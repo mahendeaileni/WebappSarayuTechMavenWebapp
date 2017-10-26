@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1> Welcome to Sarayu Tech tools by Mahender Reddy </h1>
+<h1> Welcome to Sarayu DevOps Tech tools by Mahender Reddy </h1>
 <h1>Our IT Services</h1>
 <h1> -> WebSphere Admin</h1>
 <h1> -> WebLogic Admin</h1>
