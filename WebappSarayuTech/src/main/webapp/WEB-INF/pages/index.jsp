@@ -5,11 +5,6 @@
 <h1> -> Build and Release Managment</h1>
 <h1> -> DevOps ManageMent</h1>
 <h1> -> Unix Administration</h1>
-<h1> -> SAP FI/CO </h1>
-<h1> -> SAP BO/BW </h1>
-<h1> -> SAP HANA </h1>
-<h1> -> SAP ABAP </h1>
-<h1> -> SAP BODS </h1>
 <BODY BGCOLOR="#0000FF" TEXT="#FFFFFF">
  
 <h3>Message : ${message}</h3>
